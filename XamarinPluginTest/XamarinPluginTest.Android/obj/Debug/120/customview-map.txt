@@ -1,0 +1,4 @@
+resources;D:\workplace\sample\XamarinPluginTest\XamarinPluginTest\XamarinPluginTest.Android\obj\Debug\120\lp\105\jl\res\values\strings.xml
+resources;obj\Debug\120\res\values\strings.xml
+string;D:\workplace\sample\XamarinPluginTest\XamarinPluginTest\XamarinPluginTest.Android\obj\Debug\120\lp\105\jl\res\values\strings.xml
+string;obj\Debug\120\res\values\strings.xml

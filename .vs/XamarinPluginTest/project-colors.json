@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "92636f90-3f74-4c83-9e21-987094b3a57f": {
+      "ProjectGuid": "92636f90-3f74-4c83-9e21-987094b3a57f",
+      "DisplayName": "Plugin.Test",
+      "ColorIndex": 0
+    },
+    "3773e2fe-f4fa-450e-bb92-6fe2a5d21ac1": {
+      "ProjectGuid": "3773e2fe-f4fa-450e-bb92-6fe2a5d21ac1",
+      "DisplayName": "Plugin.Test.Abstractions",
+      "ColorIndex": 1
+    },
+    "43706e89-e40c-4103-9f61-97977fea8429": {
+      "ProjectGuid": "43706e89-e40c-4103-9f61-97977fea8429",
+      "DisplayName": "Plugin.Test.Android",
+      "ColorIndex": 2
+    },
+    "03732d64-4e09-4320-8936-e35f19f39eca": {
+      "ProjectGuid": "03732d64-4e09-4320-8936-e35f19f39eca",
+      "DisplayName": "Plugin.Test.iOS",
+      "ColorIndex": 3
+    },
+    "0ba1f498-6c16-4343-a575-6677843c55ca": {
+      "ProjectGuid": "0ba1f498-6c16-4343-a575-6677843c55ca",
+      "DisplayName": "XamarinPluginTest.Android",
+      "ColorIndex": 4
+    },
+    "a898c6d1-4547-47bc-9365-c796773e78e2": {
+      "ProjectGuid": "a898c6d1-4547-47bc-9365-c796773e78e2",
+      "DisplayName": "XamarinPluginTest",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

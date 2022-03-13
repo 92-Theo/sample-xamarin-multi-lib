@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Plugin.Test
+build_property.ProjectDir = D:\workplace\sample\XamarinPluginTest\Plugin.Test\
